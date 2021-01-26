@@ -9,12 +9,16 @@ Para poder realizar este programa usamos una implementación de listas enlazadas
 
 ## Instalación
 Para usar este programa debe abrir la consola (CMD) ir a la ubicación donde desee guardar el programa y ejecutar este comando:
-**git clone https://github.com/Carlos96999/AREP-desviacionEstandar.git
+```
+git clone https://github.com/Carlos96999/AREP-desviacionEstandar.git
+```
 
 ## Ejecución
 Entramos a la carpeta creada por el comando anterior y entramos a "mi-desviacionEstandar" desde la consola de comandos (CMD), ejecutamos estos comandos:
+```
 * mvn package
 * mvn clean compile
+```
 
 ## Pruebas
 Si desea conocer la ejecución de las pruebas, puede ejecutar en consola el comando mvn test (en la misma ubicación donde ejecuto los coamndos de la parte de Ejecución).
@@ -29,7 +33,9 @@ Las pruebas que hemos realizado son:
 
 ## Documentación
 Encontrara la documentación sobre el programa en la siguiente ubicación
+```
 target/site/apidocs
+```
 
 (imagen de documentación)
 
