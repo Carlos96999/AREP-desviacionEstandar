@@ -26,10 +26,10 @@ Si desea conocer la ejecución de las pruebas, puede ejecutar en consola el coma
 (Imagen pruebas)
 
 Las pruebas que hemos realizado son:
-* casoDePruebasUno: Realizamos una prueba de todo el programa con una tabla de datos diferente de "archivo.txt"
-* casoDePruebasDos: Realizamos una prueba de todo el programa con una tabla de datos diferente de "archivo.txt" y de la prueba anterior
-* deberiaHacerSumatoria: Realizamos una prueba de la sumatoria inicial que hace el programa
-* deberiaHacerSumatoriaConxPromedio: Realziamos una prueba de la sumatoria
+* **casoDePruebasUno**: Realizamos una prueba de todo el programa con una tabla de datos diferente de "archivo.txt"
+* **casoDePruebasDos**: Realizamos una prueba de todo el programa con una tabla de datos diferente de "archivo.txt" y de la prueba anterior
+* **deberiaHacerSumatoria**: Realizamos una prueba de la sumatoria inicial que hace el programa
+* **deberiaHacerSumatoriaConxPromedio**: Realziamos una prueba de la sumatoria
 
 ## Documentación
 Encontrara la documentación sobre el programa en la siguiente ubicación
