@@ -23,13 +23,14 @@ Entramos a la carpeta creada por el comando anterior y entramos a "mi-desviacion
 ## Pruebas
 Si desea conocer la ejecución de las pruebas, puede ejecutar en consola el comando mvn test (en la misma ubicación donde ejecuto los coamndos de la parte de Ejecución).
 
-(Imagen pruebas)
+<img src="https://github.com/Carlos96999/AREP-desviacionEstandar/blob/main/img/pruebas.png?raw=true">
 
 Las pruebas que hemos realizado son:
 * **casoDePruebasUno**: Realizamos una prueba de todo el programa con una tabla de datos diferente de "archivo.txt"
 * **casoDePruebasDos**: Realizamos una prueba de todo el programa con una tabla de datos diferente de "archivo.txt" y de la prueba anterior
 * **deberiaHacerSumatoria**: Realizamos una prueba de la sumatoria inicial que hace el programa
-* **deberiaHacerSumatoriaConxPromedio**: Realziamos una prueba de la sumatoria
+* **deberiaHacerSumatoriaConxPromedio**: <img src="https://github.com/Carlos96999/AREP-desviacionEstandar/blob/main/img/formula.png?raw=true">
+
 
 ## Documentación
 Encontrara la documentación sobre el programa en la siguiente ubicación
@@ -37,7 +38,7 @@ Encontrara la documentación sobre el programa en la siguiente ubicación
 target/site/apidocs
 ```
 
-(imagen de documentación)
+<img src="https://github.com/Carlos96999/AREP-desviacionEstandar/blob/main/img/documentacion.png?raw=true">
 
 ## Desarrollo
 Este laboratorio fue construido con las siguiente herramientas:
