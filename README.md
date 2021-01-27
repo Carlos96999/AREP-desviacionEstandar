@@ -21,7 +21,7 @@ Entramos a la carpeta creada por el comando anterior y entramos a "mi-desviacion
 ```
 
 ## Pruebas
-Si desea conocer la ejecución de las pruebas, puede ejecutar en consola el comando mvn test (en la misma ubicación donde ejecuto los coamndos de la parte de Ejecución).
+Si desea conocer la ejecución de las pruebas, puede ejecutar en consola el comando mvn test (en la misma ubicación donde ejecuto los comandos de la parte de Ejecución).
 
 <img src="https://github.com/Carlos96999/AREP-desviacionEstandar/blob/main/img/pruebas.png?raw=true">
 
